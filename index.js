@@ -1,2 +1,11 @@
 #!/usr/bin/env node
-console.log(`Joel Wolfgang - Business Owner`);
+
+const clearConsole = require('clear-any-console');
+
+//Clears the console.
+clearConsole();
+
+console.log(`
+Joel Wolfgang - Business Owner
+
+`);

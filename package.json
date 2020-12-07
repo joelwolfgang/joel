@@ -2,6 +2,9 @@
     "name": "joelwolfgang",
     "version": "1.0.0",
     "bin": {
-        "joel": "index.js"
+        "joelwolfgang": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
     }
 }
